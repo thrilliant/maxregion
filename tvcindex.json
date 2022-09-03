@@ -1,3 +1,5 @@
+// 20220903231531
+// https://www.tvcnews.tv/wp-json/wp/v2/hottopic?_embed&per_page=100
 
 [
   {
@@ -7,14 +9,14 @@
     "guid": {
       "rendered": "https://www.tvcnews.tv/?post_type=hottopic&#038;p=206745"
     },
-    "modified": "2022-08-11T11:34:45",
-    "modified_gmt": "2022-08-11T10:34:45",
+    "modified": "2022-09-03T23:00:33",
+    "modified_gmt": "2022-09-03T22:00:33",
     "slug": "elections-2023",
     "status": "publish",
     "type": "hottopic",
     "link": "https://www.tvcnews.tv/hottopic/elections-2023/",
     "title": {
-      "rendered": "Election 2023"
+      "rendered": "Elections 2023"
     },
     "content": {
       "rendered": "",
@@ -24,11 +26,12 @@
     "acf": [
       
     ],
-    "ht_title": "Election 2023",
+    "ht_title": "Elections 2023",
     "ht_category_url": "https://www.tvcnews.tv/category/hottopics/election2023/",
     "ht_icon": "https://tvcnews.gridpapacdn.com/wp-content/uploads/2022/08/3199306.png",
     "is_it_active": "1",
     "category_id": "110421",
+    "getpost": "https://www.tvcnews.tv/wp-json/wp/v2/posts/?categories=110422&per_page=5",
     "_links": {
       "self": [
         {
