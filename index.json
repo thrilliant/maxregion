@@ -1,1 +1,193 @@
-[{"id":8012,"date":"2020-07-18T14:29:45","date_gmt":"2020-07-18T14:29:45","guid":{"rendered":"http:\/\/dashboard.maxfm.stream\/?post_type=region&#038;p=8012"},"modified":"2022-01-27T16:21:06","modified_gmt":"2022-01-27T16:21:06","slug":"lagos","status":"publish","type":"region","link":"https:\/\/dashboard.maxfm.stream\/region\/lagos\/","title":{"rendered":"Lagos"},"author":1,"template":"","region_name":"Lagos","region_stream_link":"https:\/\/audiostreamer.gridpapaservers.com:2000\/system\/proxy.php?unique_id=MAXLAGOS&mounturl=","region_standard_stream_link":"http:\/\/maxfmdatasaver.thrilliant.com.ng:9193\/stream\/2\/","json_url":"https:\/\/www.max1023.fm\/","opinions":"http:\/\/dashboard.maxfm.stream\/abuja\/","now_playing":"https:\/\/audiostreamer.gridpapaservers.com:2020\/json\/stream\/MAXLAGOS","home_screen_image":"","comment_on_the_show":"https:\/\/api.whatsapp.com\/send?phone=2349099200909","homescreen_advert":"<p><del datetime=\"2021-06-05T12:17:10+00:00\"><\/p>\n<div style=\"width:100%; height:90px;\"><iframe src=\"https:\/\/tvcdashboard.com?_dnid=107310&#038;t=1608222025\" border=\"0\" scrolling=\"no\" allowtransparency=\"true\" style=\"width:1px;min-width:100%;*width:100%;height:100%;border:0;\"><\/iframe><\/div>\n","lyrics_engine":"https:\/\/maxng-engine.herokuapp.com\/","_wp_old_slug":"auto-draft","_vc_post_settings":{"vc_grid_id":[]},"_edit_lock":"1643623798:1","_edit_last":"1","_links":{"self":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/region\/8012"}],"collection":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/region"}],"about":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/types\/region"}],"author":[{"embeddable":true,"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/users\/1"}],"wp:attachment":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/media?parent=8012"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":1,"name":"thrilliant","url":"","description":"","link":"https:\/\/dashboard.maxfm.stream\/author\/thrilliant\/","slug":"thrilliant","avatar_urls":{"24":"http:\/\/1.gravatar.com\/avatar\/757d91665f3f34188b797d0cb407e213?s=24&d=mm&r=g","48":"http:\/\/1.gravatar.com\/avatar\/757d91665f3f34188b797d0cb407e213?s=48&d=mm&r=g","96":"http:\/\/1.gravatar.com\/avatar\/757d91665f3f34188b797d0cb407e213?s=96&d=mm&r=g"},"mpp_avatar":{"errors":{"mpp_no_profile_picture":["Profile picture not found."]},"error_data":{"mpp_no_profile_picture":{"status":404}}},"_links":{"self":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/users\/1"}],"collection":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/users"}]}}]}},{"id":8013,"date":"2020-07-18T15:29:23","date_gmt":"2020-07-18T15:29:23","guid":{"rendered":"http:\/\/dashboard.maxfm.stream\/?post_type=region&#038;p=8013"},"modified":"2022-01-31T09:59:20","modified_gmt":"2022-01-31T09:59:20","slug":"auto-draft-2","status":"publish","type":"region","link":"https:\/\/dashboard.maxfm.stream\/region\/auto-draft-2\/","title":{"rendered":"Abuja"},"author":1,"template":"","region_name":"Abuja","region_stream_link":"https:\/\/audiostreamer.gridpapaservers.com:2000\/system\/proxy.php?unique_id=MAXABUJA&mounturl=","region_standard_stream_link":"https:\/\/audiostreamer.gridpapaservers.com:2000\/system\/proxy.php?unique_id=MAXABUJA&mounturl=","json_url":"http:\/\/max909.fm","opinions":"http:\/\/dashboard.maxfm.stream\/abuja\/","now_playing":"https:\/\/audiostreamer.gridpapaservers.com:2020\/json\/stream\/MAXABUJA","home_screen_image":"","comment_on_the_show":"https:\/\/api.whatsapp.com\/send?phone=2349099200909","homescreen_advert":"<p><iframe src=\"https:\/\/tvcdashboard.com?_dnid=107310&#038;t=1608222025\" border=\"0\" scrolling=\"no\" allowtransparency=\"true\" style=\"width:1px;min-width:100%;*width:100%;height:100%;border:0;\"><\/iframe><\/p>\n","lyrics_engine":"https:\/\/maxngengine.herokuapp.com\/","_wp_old_slug":"","_vc_post_settings":{"vc_grid_id":[]},"_edit_lock":"1643623797:1","_edit_last":"1","_links":{"self":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/region\/8013"}],"collection":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/region"}],"about":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/types\/region"}],"author":[{"embeddable":true,"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/users\/1"}],"wp:attachment":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/media?parent=8013"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":1,"name":"thrilliant","url":"","description":"","link":"https:\/\/dashboard.maxfm.stream\/author\/thrilliant\/","slug":"thrilliant","avatar_urls":{"24":"http:\/\/1.gravatar.com\/avatar\/757d91665f3f34188b797d0cb407e213?s=24&d=mm&r=g","48":"http:\/\/1.gravatar.com\/avatar\/757d91665f3f34188b797d0cb407e213?s=48&d=mm&r=g","96":"http:\/\/1.gravatar.com\/avatar\/757d91665f3f34188b797d0cb407e213?s=96&d=mm&r=g"},"mpp_avatar":{"errors":{"mpp_no_profile_picture":["Profile picture not found."]},"error_data":{"mpp_no_profile_picture":{"status":404}}},"_links":{"self":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/users\/1"}],"collection":[{"href":"https:\/\/dashboard.maxfm.stream\/wp-json\/wp\/v2\/users"}]}}]}}]
+// 20221229075642
+// https://thrilliant.github.io/maxregion/
+
+[
+  {
+    "id": 11883,
+    "date": "2018-04-21T07:00:21",
+    "date_gmt": "2018-04-21T07:00:21",
+    "guid": {
+      "rendered": "https://max1023.fm/?post_type=region&#038;p=11883"
+    },
+    "modified": "2022-12-29T06:56:05",
+    "modified_gmt": "2022-12-29T06:56:05",
+    "slug": "lagos",
+    "status": "publish",
+    "type": "region",
+    "link": "https://dashboard.maxfm.stream/region/lagos/",
+    "title": {
+      "rendered": "Lagos"
+    },
+    "author": 1,
+    "template": "",
+    "region_name": "Lagos",
+    "region_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS&mounturl=",
+    "region_standard_stream_link": "http://maxfmdatasaver.thrilliant.com.ng:9193/stream/2/",
+    "json_url": "http://www.max1023.fm",
+    "logo": "https://www.max1023.fm/wp-content/uploads/2020/07/MAX-LOGO-final-2.png",
+    "homescreen-image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e8/30/f6/e830f6fa-502b-22b9-8990-50d520d02873/720665641799_cover.jpg/600x600bb.jpg",
+    "ad_articles": "",
+    "ad_mscreen": "",
+    "ad1": "",
+    "ad2": "",
+    "ad3": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/region/11883"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/region"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/types/region"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/users/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/media?parent=11883"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 1,
+          "name": "thrilliant",
+          "url": "https://dashboard.maxfm.stream",
+          "description": "",
+          "link": "https://dashboard.maxfm.stream/author/thrilliant/",
+          "slug": "thrilliant",
+          "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/757d91665f3f34188b797d0cb407e213?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/757d91665f3f34188b797d0cb407e213?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/757d91665f3f34188b797d0cb407e213?s=96&d=mm&r=g"
+          },
+          "_links": {
+            "self": [
+              {
+                "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/users/1"
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 11881,
+    "date": "2018-04-21T06:57:54",
+    "date_gmt": "2018-04-21T06:57:54",
+    "guid": {
+      "rendered": "https://max1023.fm/?post_type=region&#038;p=11881"
+    },
+    "modified": "2022-12-29T06:56:00",
+    "modified_gmt": "2022-12-29T06:56:00",
+    "slug": "abuja",
+    "status": "publish",
+    "type": "region",
+    "link": "https://dashboard.maxfm.stream/region/abuja/",
+    "title": {
+      "rendered": "Abuja"
+    },
+    "author": 1,
+    "template": "",
+    "region_name": "Abuja",
+    "region_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
+    "region_standard_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
+    "json_url": "https://www.max909.fm",
+    "logo": "http://www.max909.fm/wp-content/uploads/2020/12/MAX-LG-Abuja-01.png",
+    "homescreen-image": "",
+    "ad_articles": "",
+    "ad_mscreen": "",
+    "ad1": "",
+    "ad2": "",
+    "ad3": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/region/11881"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/region"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/types/region"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/users/1"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/media?parent=11881"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 1,
+          "name": "thrilliant",
+          "url": "https://dashboard.maxfm.stream",
+          "description": "",
+          "link": "https://dashboard.maxfm.stream/author/thrilliant/",
+          "slug": "thrilliant",
+          "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/757d91665f3f34188b797d0cb407e213?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/757d91665f3f34188b797d0cb407e213?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/757d91665f3f34188b797d0cb407e213?s=96&d=mm&r=g"
+          },
+          "_links": {
+            "self": [
+              {
+                "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/users/1"
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dashboard.maxfm.stream/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
