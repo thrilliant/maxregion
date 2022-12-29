@@ -1,4 +1,4 @@
-// 20221229075642
+// 20221229080040
 // https://thrilliant.github.io/maxregion/
 
 [
@@ -9,8 +9,8 @@
     "guid": {
       "rendered": "https://max1023.fm/?post_type=region&#038;p=11883"
     },
-    "modified": "2022-12-29T06:56:05",
-    "modified_gmt": "2022-12-29T06:56:05",
+    "modified": "2022-12-29T06:59:51",
+    "modified_gmt": "2022-12-29T06:59:51",
     "slug": "lagos",
     "status": "publish",
     "type": "region",
@@ -21,10 +21,11 @@
     "author": 1,
     "template": "",
     "region_name": "Lagos",
-    "region_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS&mounturl=",
-    "region_standard_stream_link": "http://maxfmdatasaver.thrilliant.com.ng:9193/stream/2/",
-    "json_url": "http://www.max1023.fm",
     "logo": "https://www.max1023.fm/wp-content/uploads/2020/07/MAX-LOGO-final-2.png",
+    "region_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS&mounturl=",
+    "json_url": "http://www.max1023.fm",
+    "lyricsengine": "https://maxng-engine.herokuapp.com/",
+    "region_standard_stream_link": "http://maxfmdatasaver.thrilliant.com.ng:9193/stream/2/",
     "homescreen-image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e8/30/f6/e830f6fa-502b-22b9-8990-50d520d02873/720665641799_cover.jpg/600x600bb.jpg",
     "ad_articles": "",
     "ad_mscreen": "",
@@ -103,8 +104,8 @@
     "guid": {
       "rendered": "https://max1023.fm/?post_type=region&#038;p=11881"
     },
-    "modified": "2022-12-29T06:56:00",
-    "modified_gmt": "2022-12-29T06:56:00",
+    "modified": "2022-12-29T07:00:20",
+    "modified_gmt": "2022-12-29T07:00:20",
     "slug": "abuja",
     "status": "publish",
     "type": "region",
@@ -115,10 +116,11 @@
     "author": 1,
     "template": "",
     "region_name": "Abuja",
-    "region_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
-    "region_standard_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
-    "json_url": "https://www.max909.fm",
     "logo": "http://www.max909.fm/wp-content/uploads/2020/12/MAX-LG-Abuja-01.png",
+    "region_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
+    "json_url": "https://www.max909.fm",
+    "lyricsengine": "https://maxngengine.herokuapp.com/",
+    "region_standard_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
     "homescreen-image": "",
     "ad_articles": "",
     "ad_mscreen": "",
