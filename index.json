@@ -1,6 +1,7 @@
 // 20221229080040
 // https://thrilliant.github.io/maxregion/
 
+
 [
   {
     "id": 11883,
@@ -104,8 +105,8 @@
     "guid": {
       "rendered": "https://max1023.fm/?post_type=region&#038;p=11881"
     },
-    "modified": "2022-12-29T07:00:20",
-    "modified_gmt": "2022-12-29T07:00:20",
+    "modified": "2022-12-29T07:28:14",
+    "modified_gmt": "2022-12-29T07:28:14",
     "slug": "abuja",
     "status": "publish",
     "type": "region",
@@ -121,7 +122,7 @@
     "json_url": "https://www.max909.fm",
     "lyricsengine": "https://maxngengine.herokuapp.com/",
     "region_standard_stream_link": "https://audiostreamer.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
-    "homescreen-image": "",
+    "homescreen-image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/14/52/79/145279bd-5e39-915c-a6f6-81e36b322373/5059449097572.png/600x600bb.jpg",
     "ad_articles": "",
     "ad_mscreen": "",
     "ad1": "",
