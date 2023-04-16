@@ -4,7 +4,7 @@
     "date": "2018-04-21T07:00:21",
     "date_gmt": "2018-04-21T07:00:21",
     "guid": {
-      "rendered": "https://max1023.fm/?post_type=region&#038;p=11883"
+      "rendered": "https://www.max1023.fm/?post_type=region&#038;p=11883"
     },
     "modified": "2022-12-29T06:59:51",
     "modified_gmt": "2022-12-29T06:59:51",
@@ -20,7 +20,7 @@
     "region_name": "Lagos",
     "logo": "https://www.max1023.fm/wp-content/uploads/2020/07/MAX-LOGO-final-2.png",
     "region_stream_link": "https://audiohq.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXLAGOS&mounturl=",
-    "json_url": "http://www.max1023.fm",
+    "json_url": "https://www.max1023.fm",
     "schedule_url2": "https://thrilliant.github.io/maxschedule/",
     "schedule_url": "https://www.max1023.fm/wp-json/wp/v2/max_week?_embed&per_page=20",
     "lyricsengine": "https://le.gridpapaservers.com/",
@@ -102,7 +102,7 @@
     "date": "2018-04-21T06:57:54",
     "date_gmt": "2018-04-21T06:57:54",
     "guid": {
-      "rendered": "https://max1023.fm/?post_type=region&#038;p=11881"
+      "rendered": "https://www.max1023.fm/?post_type=region&#038;p=11881"
     },
     "modified": "2022-12-29T07:28:14",
     "modified_gmt": "2022-12-29T07:28:14",
@@ -116,7 +116,7 @@
     "author": 1,
     "template": "",
     "region_name": "Abuja",
-    "logo": "http://www.max909.fm/wp-content/uploads/2020/12/MAX-LG-Abuja-01.png",
+    "logo": "https://www.max909.fm/wp-content/uploads/2020/12/MAX-LG-Abuja-01.png",
     "region_stream_link": "https://audiohq.gridpapaservers.com:2000/system/proxy.php?unique_id=MAXABUJA&mounturl=",
     "json_url": "https://www.max909.fm",
     "schedule_url2": "https://thrilliant.github.io/maxabjschedule/",
