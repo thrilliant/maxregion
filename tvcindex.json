@@ -8,12 +8,12 @@
     },
     "modified": "2022-09-03T23:00:33",
     "modified_gmt": "2022-09-03T22:00:33",
-    "slug": "elections-2023",
+    "slug": "bat100days",
     "status": "publish",
     "type": "hottopic",
-    "link": "https://www.tvcnews.tv/hottopic/elections-2023/",
+    "link": "https://www.tvcnews.tv/category/hottopics/bat100days/",
     "title": {
-      "rendered": "Elections 2023"
+      "rendered": "BAT 100 Days"
     },
     "content": {
       "rendered": "",
@@ -23,12 +23,12 @@
     "acf": [
       
     ],
-    "ht_title": "Elections 2023",
-    "ht_category_url": "https://www.tvcnews.tv/category/hottopics/election2023/",
+    "ht_title": "BAT 100 Days",
+    "ht_category_url": "https://www.tvcnews.tv/category/hottopics/bat100days/",
     "ht_icon": "https://tvcnews.gridpapacdn.com/wp-content/uploads/2022/08/3199306.png",
     "is_it_active": "1",
-    "category_id": "110421",
-    "getpost": "https://www.tvcnews.tv/wp-json/wp/v2/posts/?categories=110422&per_page=5",
+    "category_id": "118596",
+    "getpost": "https://www.tvcnews.tv/wp-json/wp/v2/posts/?categories=118596&per_page=5",
     "_links": {
       "self": [
         {
