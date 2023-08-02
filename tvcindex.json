@@ -8,10 +8,10 @@
     },
     "modified": "2022-09-03T23:00:33",
     "modified_gmt": "2022-09-03T22:00:33",
-    "slug": "bat100days",
+    "slug": "livestream",
     "status": "publish",
     "type": "hottopic",
-    "link": "https://www.tvcnews.tv/category/hottopics/bat100days/",
+    "link": "https://www.tvcnews.tv/category/hottopics/livestream/",
     "title": {
       "rendered": "BAT 100 Days"
     },
@@ -24,11 +24,11 @@
       
     ],
     "ht_title": "BAT 100 Days",
-    "ht_category_url": "https://www.tvcnews.tv/category/hottopics/bat100days/",
+    "ht_category_url": "https://www.tvcnews.tv/category/hottopics/livestream/",
     "ht_icon": "https://tvcnews.gridpapacdn.com/wp-content/uploads/2022/08/3199306.png",
     "is_it_active": "1",
     "category_id": "119731",
-    "getpost": "https://www.tvcnews.tv/wp-json/wp/v2/posts/?categories=118596&per_page=5",
+    "getpost": "https://www.tvcnews.tv/wp-json/wp/v2/posts/?categories=119731&per_page=5",
     "_links": {
       "self": [
         {
