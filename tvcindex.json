@@ -27,7 +27,7 @@
     "ht_category_url": "https://www.tvcnews.tv/category/hottopics/bat100days/",
     "ht_icon": "https://tvcnews.gridpapacdn.com/wp-content/uploads/2022/08/3199306.png",
     "is_it_active": "1",
-    "category_id": "118596",
+    "category_id": "119731",
     "getpost": "https://www.tvcnews.tv/wp-json/wp/v2/posts/?categories=118596&per_page=5",
     "_links": {
       "self": [
