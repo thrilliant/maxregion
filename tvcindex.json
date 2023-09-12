@@ -11,9 +11,9 @@
     "slug": "livestream",
     "status": "publish",
     "type": "hottopic",
-    "link": "https://www.tvcnews.tv/category/hottopics/livestream/",
+    "link": "https://www.tvcnews.tv/category/hottopics/beyond100days/",
     "title": {
-      "rendered": "BAT 100 Days"
+      "rendered": "Beyond 100 Days"
     },
     "content": {
       "rendered": "",
@@ -23,8 +23,8 @@
     "acf": [
       
     ],
-    "ht_title": "LIVESTREAM",
-    "ht_category_url": "https://www.tvcnews.tv/category/hottopics/livestream/",
+    "ht_title": "#Beyond100Days",
+    "ht_category_url": "https://www.tvcnews.tv/category/hottopics/beyond100days/",
     "ht_icon": "https://tvcnews.gridpapacdn.com/wp-content/uploads/2022/08/3199306.png",
     "is_it_active": "1",
     "category_id": "119731",
